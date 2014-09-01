@@ -1,0 +1,29 @@
+{
+  "name": "gulp-sort",
+  "version": "0.0.1",
+  "description": "Gulp plugin for sorting files in a stream",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gabepaez/gulp-sort"
+  },
+  "keywords": [
+    "gulpplugin",
+    "sorting",
+    "sort",
+    "order",
+    "gulp"
+  ],
+  "author": "Gabe Paez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabepaez/gulp-sort/issues"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "tape": "~2.3"
+  }
+}
